@@ -32,8 +32,8 @@
             this.deleteButton = new System.Windows.Forms.Button();
             this.playButton = new System.Windows.Forms.Button();
             this.closeButton = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.isInstalled = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -81,6 +81,15 @@
             this.closeButton.UseVisualStyleBackColor = true;
             this.closeButton.Click += new System.EventHandler(this.closeButton_Click);
             // 
+            // isInstalled
+            // 
+            this.isInstalled.AutoSize = true;
+            this.isInstalled.Location = new System.Drawing.Point(13, 211);
+            this.isInstalled.Name = "isInstalled";
+            this.isInstalled.Size = new System.Drawing.Size(46, 13);
+            this.isInstalled.TabIndex = 5;
+            this.isInstalled.Text = "İnstalled";
+            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Carbon_Launcher.Properties.Resources.newlogoupdate;
@@ -90,15 +99,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
-            // 
-            // isInstalled
-            // 
-            this.isInstalled.AutoSize = true;
-            this.isInstalled.Location = new System.Drawing.Point(13, 211);
-            this.isInstalled.Name = "isInstalled";
-            this.isInstalled.Size = new System.Drawing.Size(46, 13);
-            this.isInstalled.TabIndex = 5;
-            this.isInstalled.Text = "İnstalled";
             // 
             // Form1
             // 
