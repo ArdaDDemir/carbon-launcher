@@ -9,8 +9,12 @@
 2. Build the project.
 
 **Example Images**
-![Visual 1](https://i.imgur.com/RAirC8O.png)
-![Visual 2](https://i.imgur.com/h0FJVgr.png)
+<p align="left">
+  <img src="https://i.imgur.com/RAirC8O.png" alt="Visual 1">
+</p>
+<p align="left">
+  <img src="https://i.imgur.com/h0FJVgr.png" alt="Visual 2">
+</p>
 
 If you need any assistance,
 Discord: [https://discord.gg/WSybyPVnZn](https://discord.gg/WSybyPVnZn)
